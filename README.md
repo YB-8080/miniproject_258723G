@@ -38,7 +38,7 @@ bash run_all.sh
 Or run directly:
 
 ```bash
-python src/main.py
+python src/main.py #better
 ```
 
 > All plots will be saved in the `output/` folder as PNG files.
@@ -46,7 +46,7 @@ python src/main.py
 ## Run in Notebook
 
 ```bash
-jupyter notebook notebooks/analysis.ipynb
+jupyter notebook notebooks/analysis.ipynb #better
 ```
 
 ## Software
