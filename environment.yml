@@ -1,0 +1,13 @@
+name: tomato-env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - ipython
+  - pip
+  
